@@ -1,5 +1,5 @@
 {
-  "name": "typo3-ter/dyncss_less",
+  "name": "vuxorpadd/dyncss_less",
   "description": "DynCss-Parser",
   "type": "typo3-cms-extension",
   "require": {
@@ -12,7 +12,8 @@
   },
   "replace": {
     "dyncss_less": "self.version",
-    "kaystrobach/dyncss-less": "self.version"
+    "kaystrobach/dyncss-less": "self.version",
+    "typo3-ter/dyncss_less": "self.version"
   },
   "autoload": {
     "psr-4": {
